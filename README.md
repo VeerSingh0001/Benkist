@@ -1,5 +1,5 @@
 # Benkist  
- Bank advertisment wbsite.  
+ Bank advertisment website.  
 
 # <a href="https://veersingh0001.github.io/Benkist/">Live Preview</a>  
 
